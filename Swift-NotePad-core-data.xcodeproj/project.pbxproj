@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22ACF06D2559CA2B0079D9EC /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22ACF06C2559CA2B0079D9EC /* DetailViewController.swift */; };
 		22FE6BEE2555CB090049B81A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FE6BED2555CB090049B81A /* AppDelegate.swift */; };
 		22FE6BF02555CB090049B81A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FE6BEF2555CB090049B81A /* SceneDelegate.swift */; };
 		22FE6BF22555CB090049B81A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FE6BF12555CB090049B81A /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		22ACF06C2559CA2B0079D9EC /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		22FE6BEA2555CB080049B81A /* Swift-NotePad-core-data.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-NotePad-core-data.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22FE6BED2555CB090049B81A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22FE6BEF2555CB090049B81A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				22FE6BED2555CB090049B81A /* AppDelegate.swift */,
 				22FE6BEF2555CB090049B81A /* SceneDelegate.swift */,
 				22FE6BF12555CB090049B81A /* ViewController.swift */,
+				22ACF06C2559CA2B0079D9EC /* DetailViewController.swift */,
 				22FE6BF32555CB090049B81A /* Main.storyboard */,
 				22FE6BF92555CB0A0049B81A /* Assets.xcassets */,
 				22FE6BFB2555CB0A0049B81A /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				22FE6BF82555CB090049B81A /* Swift_NotePad_core_data.xcdatamodeld in Sources */,
 				22FE6BF22555CB090049B81A /* ViewController.swift in Sources */,
+				22ACF06D2559CA2B0079D9EC /* DetailViewController.swift in Sources */,
 				22FE6BEE2555CB090049B81A /* AppDelegate.swift in Sources */,
 				22FE6BF02555CB090049B81A /* SceneDelegate.swift in Sources */,
 			);
